@@ -10,3 +10,6 @@ This game is a friends finder where you will be able to enter your name and a li
 3. Enter a link to a picture of yourself in the Link to Photo Image field
 4. Read the question and select the appropriate radio button
 5. Select "Submit"
+
+### Instruction
+https://dashboard.heroku.com/apps/chadfriendfinder
